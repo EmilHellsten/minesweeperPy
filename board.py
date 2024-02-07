@@ -1,0 +1,3 @@
+#class Board
+  #numBombs
+  #boardSize
